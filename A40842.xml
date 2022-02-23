@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A famous battell fought by the Earle of Bedford against the Marques of Hartford and the Lord Pawle and the rest of the cava- [sic] who was ready to take shipping for Wales. Declaring the manner of the Earle of Bedfords obtaining the victory, there being slain almost 100. cavaleers, and not above 29. of our side. Whereunto is annexed the great guard that Prince Charles hath about Ludlow Castle. Also notifying the 3. shires that hath taken an enforced protestation to assist His Majesty against both Houses of Parliament. Brought to London by the last post.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40842</idno>
+            <idno type="STC">Wing F363A</idno>
+            <idno type="STC">ESTC R215036</idno>
+            <idno type="EEBO-CITATION">99827033</idno>
+            <idno type="PROQUEST">99827033</idno>
+            <idno type="VID">31445</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31445)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1884:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A famous battell fought by the Earle of Bedford against the Marques of Hartford and the Lord Pawle and the rest of the cava- [sic] who was ready to take shipping for Wales. Declaring the manner of the Earle of Bedfords obtaining the victory, there being slain almost 100. cavaleers, and not above 29. of our side. Whereunto is annexed the great guard that Prince Charles hath about Ludlow Castle. Also notifying the 3. shires that hath taken an enforced protestation to assist His Majesty against both Houses of Parliament. Brought to London by the last post.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for I. Williams,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 1. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedford, William Russell, --  Duke of, 1613-1700 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31445:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 47 -->
+            <p>A Famous BATTELL Fought by the Earle of <hi>Bedford</hi> againſt the Marques of <hi>Hartford</hi> and the Lord <hi>Pawlet,</hi> and the reſt of the Cava<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: missing" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap> who was ready to take ſhipping for WALES.</p>
+            <p>Declaring the manner of the Earle of <hi>Bed<g ref="char:EOLhyphen"/>fords</hi> obtaining the Victory, there be<g ref="char:EOLhyphen"/>ing ſlain almoſt 100. Cavaleeres, and not above 29. of our ſide.</p>
+            <p>Whereunto is annexed The great Guard that Prince CHARLES hath about <hi>Ludlow Caſtle.</hi>
+            </p>
+            <p>Alſo notifying the 3. Shires that hath taken an en<g ref="char:EOLhyphen"/>forced Proteſtation to aſſiſt His Majeſty againſt both Houſes of Parliament.</p>
+            <p>Brought to London by the laſt Poſt.</p>
+            <p>LONDON: Printed for <hi>I. Williams: Octob.</hi> 1.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:31445:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <p>
+               <figure>
+                  <head>R.W. LLOYD</head>
+                  <figDesc>modern bookplate</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:31445:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <pb facs="tcp:31445:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <pb facs="tcp:31445:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31445:4"/>
+            <!-- PDF PAGE 50 -->
+            <pb n="1" facs="tcp:31445:4"/>
+            <!-- PDF PAGE 50 -->
+            <head>Good Newes from <hi>Weſtcheſter,</hi> and the places neere adjoyning.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Marqueſſe of <hi>Hartford</hi> ſince his going from <hi>Sher<g ref="char:EOLhyphen"/>born Caſtle</hi> in <hi>Som<g ref="char:EOLhyphen"/>merſetſhire,</hi> hath had but very bad ſucceſſe, Fortune hath frowned on him very much, for at his arrivall neere <hi>Miniard</hi> a Sea Towne not farre diſtant from <hi>Wales,</hi> they trou<g ref="char:EOLhyphen"/>bled all the Counties in their march, inſo<g ref="char:EOLhyphen"/>much
+<pb n="2" facs="tcp:31445:5"/>
+               <!-- PDF PAGE 51 -->that on Wedneſday night laſt, all the ſhop windows were at <hi>Myniard</hi> ſhut up, every man Armed, and the Towne guarded, expecting daily the arivall of the Earle of <hi>Bedford</hi> and the reſt of the Parlia<g ref="char:EOLhyphen"/>forces, and according to their expectation the Earle, and with ſome 500. Horſe, and ſome foote, upon the 25. of this moneth, And at his comming neere the Towne, the Marqueſſe ſent out Colonell <hi>Lunsford</hi> with 4. or 5. troops of horſe, to give him a charge but they had been better to have kept with in their bounds, for at their comming the Earle ſent many thundring Meſſengers to welcome them which ſoon cauſed them to retreate, and to fly for ſuccor and releife to the reſt of their forces; The Earle being within halfe a mile of the town, he ſent out ſtrict Warrants to all the Mannors that were thereabouts, to with draw all thei<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ships and Barks from that place, for the better hindring of the Marqueſſe from his going into <hi>wales</hi> by Sea, and at his arivall
+<pb n="3" facs="tcp:31445:5"/>
+               <!-- PDF PAGE 51 -->there; The Major of <hi>Briſtoll</hi> having in<g ref="char:EOLhyphen"/>formation and intelligence of it, they im<g ref="char:EOLhyphen"/>mediately ſent out divers Ships to ſecure that Fort Towne and to hinder the Mar<g ref="char:EOLhyphen"/>queſſe and the reſt of his confedrates from going into <hi>Wales,</hi> All the Caſtles therea<g ref="char:EOLhyphen"/>bouts was ſtrongly guarded and Fortified for the KING and Parliament, inſomuch that the Marqueſſe would not poſeſſe him<g ref="char:EOLhyphen"/>ſelfe of any of them, the Earle having thus ſecured thoſe parts, he drew his Forces neere the Town, and upon the 29. of this moneth let fly divers peeces of Ordnance at the Marqueſſe and his confederates, inſomuch that they were forced to ſend a parley and have produced bloody effects. Notwith<g ref="char:EOLhyphen"/>ſtanding all which, and divers other inſuf<g ref="char:EOLhyphen"/>ferable injuries, ſo confident were we of his Majeſties former profeſsions, never to refuſe any Petition preſented by his peo<g ref="char:EOLhyphen"/>ple to him in any humble way, that we de<g ref="char:EOLhyphen"/>ſiſted not to wait our beſt time to preſent ſo after ſome hours, and at the ſame con<g ref="char:EOLhyphen"/>cluded
+<pb n="4" facs="tcp:31445:6"/>
+               <!-- PDF PAGE 52 -->to have a generall meeting with their Forces within two houres, which was accordingly done, and at their com<g ref="char:EOLhyphen"/>ming into the fields, they reſolved to try their power and ſtrength againſt each o<g ref="char:EOLhyphen"/>ther, where Captaine <hi>Belfore,</hi> a moſt No<g ref="char:EOLhyphen"/>ble and deſerving Souldier, drew up 200. Horſe and gave fire againſt the Enemy, in<g ref="char:EOLhyphen"/>ſomuch that divers of them were ſoone ſtrucke from off their horſes, and after the ſpace of three houres fight, the Marqueſſe and his Forces made a retreat, and betook themſelves to the Towne; and it is re<g ref="char:EOLhyphen"/>ported, that ſome of their chiefeſt Com<g ref="char:EOLhyphen"/>manders are fled, the Earle is reſolved not to returne without honour; by the next Poſt you ſhall heare more, till then farewell.</p>
+            <p>
+               <pb n="5" facs="tcp:31445:6"/>
+               <!-- PDF PAGE 52 -->
+The Kings Majeſty upon the 28. of this Moneth marched with his Army from <hi>Cheſter</hi> towards <hi>Shrewesbury,</hi> where it is thought hee will have a meeting with the Earle of <hi>Eſſex,</hi> and there to treat with him concerning the Affaires of this King<g ref="char:EOLhyphen"/>dome, but the Cavaleers are very unwil<g ref="char:EOLhyphen"/>ling that His Majeſty ſhould come to any agreement; For upon the 29 of this Month his Excellencie the Earle of Eſſex, having gott<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> poſseſſion of the City of of <hi>Worceſter,</hi> the Towne having informed him that there was much Gun-powder laid in ſome Sellar neer to the Town Hall and as it was confeſſed by ſome that were taken priſoners, it was to blow up his Ex<g ref="char:EOLhyphen"/>cellencie, and to deſtroy as many of his Forces as they could.</p>
+            <p>This Plot was diſcovered by a worthy Gentleman, one Maſter <hi>John Jackſon,</hi> an Inhabitant of the ſaid City of <hi>Worceſter, Septem.</hi> 29.</p>
+            <pb n="6" facs="tcp:31445:7"/>
+            <!-- PDF PAGE 53 -->
+            <p>It is credibly reported, that by His Ma<g ref="char:EOLhyphen"/>jeſties ſpeciall Command Prince <hi>Charles</hi> is guarded with 200. horſe and 400 foot in the Caſtle of <hi>Ludlow,</hi> the Trained Band alſo doth daily lye there pretending to guard his highneſse Perſon in theſe trou<g ref="char:EOLhyphen"/>bleſome times.</p>
+            <p>It is alſo reported for certaine, That three Shires thereabouts, namely, <hi>Shrop<g ref="char:EOLhyphen"/>ſhire, Denbi-ſhire, Flintſhire,</hi> have taken a forced Proteſtation to aſſiſt his Majeſtie againſt both houſes of Parliament, but it is thought their Reſolution in that will not hold long, for when the Parliaments For<g ref="char:EOLhyphen"/>ces ſhall be preſent to aſſiſt them, for they want helpe and encour<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gers, ſuch as the Lord <hi>Fairefaxe</hi> and Sir <hi>John Hotham</hi> in <hi>Yorkeſhire.</hi>
+            </p>
+            <trailer>FJNJS.</trailer>
+            <pb facs="tcp:31445:7"/>
+            <!-- PDF PAGE 53 -->
+         </div>
+      </body>
+   </text>
+</TEI>
